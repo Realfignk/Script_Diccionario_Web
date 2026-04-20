@@ -1,13 +1,11 @@
 Markdown# [Nombre del Script]
 
-> [Breve descripción de una oración: Ej. Un script interactivo para automatizar respaldos de bases de datos en servidores Debian.]
+> Script en Python para realizar una búsqueda de archivos en una url dado un archivo de texto con nombre comunes (diccionario).
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Bash](https://img.shields.io/badge/Script-Bash-4EAA25?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 ## 📋 Características
-- ✨ [Funcionalidad 1: Ej. Ejecución sin entorno gráfico (CLI).]
-- 🛠️ [Funcionalidad 2: Ej. Gestión automática de permisos y dependencias.]
-- 📊 [Funcionalidad 3: Ej. Generación de logs detallados en /var/log/.]
+- Facilidad de uso
+- Portable
+- Ejecución rápida.
 
 ## 💻 Requisitos
 Antes de comenzar, asegúrate de tener instalado:
