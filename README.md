@@ -25,7 +25,9 @@ Ejecución:
 ├── README.md                    # Documentación principal
 └── script_diccionario_web.py    # Script principal
 
-📝 Ejemplo de SalidaPlaintext[INFO] Iniciando proceso de red...
+📝 Ejemplo de Salida
+
 ------------------------------------------------
 Iniciando búsqueda de archivos en la url...
 ------------------------------------------------
+   Existe http://myurl.com/
