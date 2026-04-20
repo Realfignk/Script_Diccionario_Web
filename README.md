@@ -26,5 +26,6 @@ Ejecución:
 └── script_diccionario_web.py    # Script principal
 
 📝 Ejemplo de SalidaPlaintext[INFO] Iniciando proceso de red...
-[SUCCESS] Conexión establecida en wlan0.
-[DONE] Proceso finalizado correctamente.
+------------------------------------------------
+Iniciando búsqueda de archivos en la url...
+------------------------------------------------
